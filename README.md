@@ -8,6 +8,20 @@ The goal of this project was to understand how a real e-commerce system works fr
 
 While building this project I explored multiple approaches, experimented with my own ideas, and also learned a lot from GreatStack tutorials, which helped me understand the architecture and implementation of a real MERN project.
 
+## 🌐 Live Demo
+
+```
+🔗 **User Website:**
+
+https://forever-frontend-blue-nu.vercel.app/
+
+🔗 **Admin Panel:** 
+
+https://forever-admin-eta-seven.vercel.app/add
+
+```
+
+
 🚀 Project Highlights
 
 • Full MERN Stack E-Commerce Application
